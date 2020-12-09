@@ -2,6 +2,8 @@ from selenium import webdriver
 import time
 from random import randrange
 
+print("THIS IS A YOUTUBE viewBOT, DEVELOPED BY ROCKSTR99")
+
 LINK = input("Enter your youtube video link here: ")
 TABS = int(input("Enter number of tabs (**warning this depends upon your system, it is not advisable to open more than 4 tabs**) : "))
 TIME = int(input("Enter view time in seconds: "))
